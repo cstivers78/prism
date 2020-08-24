@@ -57,24 +57,20 @@
 				"ssml": "SSML",
 				"atom": "Atom",
 				"rss": "RSS"
-			},
-			"option": "default"
+			}
 		},
 		"css": {
 			"title": "CSS",
-			"option": "default",
 			"modify": "markup"
 		},
 		"clike": {
-			"title": "C-like",
-			"option": "default"
+			"title": "C-like"
 		},
 		"javascript": {
 			"title": "JavaScript",
 			"require": "clike",
 			"modify": "markup",
-			"alias": "js",
-			"option": "default"
+			"alias": "js"
 		},
 		"abap": {
 			"title": "ABAP",
@@ -972,6 +968,11 @@
 				"vala"
 			],
 			"owner": "RunDevelopment"
+		},
+		"rego": {
+			"title": "Rego",
+			"owner": "cstivers78",
+			"option": "default"
 		},
 		"renpy": {
 			"title": "Ren'py",
