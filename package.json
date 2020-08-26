@@ -1,5 +1,5 @@
 {
-  "name": "prismjs",
+  "name": "@atlassian/prismjs",
   "version": "1.21.0",
   "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
   "main": "prism.js",

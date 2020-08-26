@@ -973,6 +973,11 @@
 			],
 			"owner": "RunDevelopment"
 		},
+		"rego": {
+			"title": "Rego",
+			"owner": "cstivers78",
+			"require": "clike"
+		},
 		"renpy": {
 			"title": "Ren'py",
 			"alias": "rpy",

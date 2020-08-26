@@ -111,6 +111,7 @@
 			"typescript"
 		],
 		"reason": "clike",
+		"rego": "clike",
 		"ruby": "clike",
 		"sass": "css",
 		"scss": "css",
